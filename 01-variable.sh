@@ -6,4 +6,4 @@ echo name = $name
 
 
 DATE=$(date +%F)
-today date is $DATE
+today date is echo $DATE
